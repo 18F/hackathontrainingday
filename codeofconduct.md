@@ -9,17 +9,17 @@ This is our draft code of conduct. Please open issues and submit pull requests i
 
 This Code of Conduct is a work in progress. A formal reporting process has not yet been established. In the meantime, if you are being harassed in an 18F space, please speak to the organizer/admin of that space. If you can't reach them or are uncomfortable talking to them, any member of the 18F team can put you in touch with 18F executive director Greg Godbout or co-founders Hillary Hartley or Aaron Snow. GSA employees also have the option of raising their concerns with Human Resources. Nothing in this policy is intended to limit your rights and responsibilities as established in law and GSA policy.
 
-**Creating a Culture of Innovation**
+### Creating a Culture of Innovation
 
 We aspire to create a culture where people work joyfully, communicate openly about things that matter and create great services for the American people and the world. We would like our team and our communities (including government and private sector colleagues) to reflect the diversity of America. We want to foster diversity of all kinds--not just the classes protected in law.  Diversity fosters innovation. Diverse teams are creative teams. We need a diversity of perspective to create solutions for the real and urgent challenges we face.
 
 This is the 18F Code of Conduct. We follow all Equal Employment Opportunity laws, but our expectations are higher.   We expect everyone we work with to adhere to the [GSA Anti-](http://www.gsa.gov/portal/directive/d0/content/627930)[harassment](http://www.google.com/url?q=http%3A%2F%2Fwww.gsa.gov%2Fportal%2Fdirective%2Fd0%2Fcontent%2F627930&sa=D&sntz=1&usg=AFQjCNEXEK_MY8DvTm1Mi041ihtCDbLsRQ)[ Policy](http://www.gsa.gov/portal/directive/d0/content/627930), even if they do not work for the General Services Administration. We expect everyone who works at 18F, attends 18F events and meetings, or participates in online forums or other virtual collaboration to follow this code of conduct and the laws and policies mentioned above. This applies to all of our methods of communication: office chatrooms, commit messages, email, and both formal and informal conversation.
 
-**Be Empowering**
+### Be Empowering
 
 Be a multiplier. Consider how your words and actions can unleash creativity and potential in others. Notice that silence is powerful. Give space to allow quieter voices the opportunity to emerge. Leverage the low cost of experimentation. Help create the safety net that encourages others to take risks. Say "Yes, and…", challenging yourself to accept something unexpected from a colleague and take it further in a positive direction. Share your knowledge and your skills. Prioritize access for and input from those who are traditionally excluded from the civic process.   
 
-**Boundaries**
+### Boundaries
 
 Create boundaries to your own behavior, and consider how you can create safe space that helps prevent unacceptable behavior by others. We do not seek to list all cases of unacceptable behavior, but provide examples to help guide our community in thinking through how to respond when we experience these types of behavior, whether directed at ourselves or others.
 
